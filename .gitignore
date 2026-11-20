@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Blender
+*.blend1
+*.blend2
+*.blend@
+
+# Build / Release artifacts
+dist/
+build/
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
